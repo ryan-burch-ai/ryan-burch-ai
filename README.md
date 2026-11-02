@@ -1,22 +1,11 @@
-# I am Ryan Burch
+# Ryan Burch
 
----
+**Machine Learning Engineer**
 
-## What I Do
-Building Applied AI & Machine Learning with focus on Machine Learning, Python, TensorFlow, AI Systems, Data Science.
+Developing and deploying machine learning systems. Expertise in:
+- Model training and evaluation
+- Feature engineering and data preparation
+- Model deployment and monitoring
+- Python data science stack
 
-### Core Skills
-Machine Learning, Python, TensorFlow, AI Systems, Data Science
-
-### Why Work With Me?
-✨ Production-ready code  
-⚡ Scalable architectures  
-🔧 Full-stack capabilities  
-📚 Mentorship-oriented  
-
-### Let's Connect
-[GitHub](https://github.com/ryan-burch-ai) • [LinkedIn](https://linkedin.com/in/ryan-burch-ai)
-
----
-
-*Ryan Burch | Engineer | Builder*
+**Technologies**: Python, TensorFlow, PyTorch, scikit-learn, Pandas, SQL, AWS SageMaker
