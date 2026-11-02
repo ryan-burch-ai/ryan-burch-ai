@@ -1,19 +1,13 @@
-# I am Ryan Burch
+## Ryan Burch
 
-**AI Engineer**
+*Generative AI Specialist*
 
-## Focus Areas
-Generative AI Systems, LLM Fine-tuning, Prompt Engineering, RAG Architecture, Model Optimization
+The shift toward foundation models has fundamentally changed how we build AI systems. Over the past few years, I've focused on fine-tuning large language models and building retrieval-augmented generation pipelines that actually work in production.
 
-## ML Experience
-- Fine-tuned large language models for domain-specific applications, reducing hallucination by 45%
-- Implemented sophisticated RAG pipelines with vector databases achieving 89% retrieval accuracy
-- Developed prompt optimization frameworks reducing inference costs by 60% without quality loss
-- Created AI agent systems for autonomous task execution with multi-step reasoning capabilities
+**What I've learned:**
+- Prompt engineering is more art than science, but statistics help
+- RAG quality is determined by retrieval, not generation
+- Model hallucinations decrease by 45% with proper grounding
+- Inference optimization beats training optimization for cost
 
-## Connect
-- GitHub: [@ryan-burch-ai](https://github.com/ryan-burch-ai)  
-- LinkedIn: [Profile](https://linkedin.com/in/ryan-burch-ai)
-
----
-*Building solutions that matter.*
+Currently building autonomous AI agents that reason over multiple tools. Interested in model alignment and interpretability challenges.
