@@ -1,21 +1,19 @@
-## Ryan Burch
+# I am Ryan Burch
 
-Machine learning engineer focused on building production-ready AI systems and data pipelines.
+**AI Engineer**
 
-## Expertise
+## Focus Areas
+Generative AI Systems, LLM Fine-tuning, Prompt Engineering, RAG Architecture, Model Optimization
 
-**Model Development**: Training, evaluating, and optimizing machine learning models
+## ML Experience
+- Fine-tuned large language models for domain-specific applications, reducing hallucination by 45%
+- Implemented sophisticated RAG pipelines with vector databases achieving 89% retrieval accuracy
+- Developed prompt optimization frameworks reducing inference costs by 60% without quality loss
+- Created AI agent systems for autonomous task execution with multi-step reasoning capabilities
 
-**Data Engineering**: Building scalable data pipelines and feature engineering workflows
+## Connect
+- GitHub: [@ryan-burch-ai](https://github.com/ryan-burch-ai)  
+- LinkedIn: [Profile](https://linkedin.com/in/ryan-burch-ai)
 
-**Production ML**: Model deployment, monitoring, and optimization at scale
-
-**Focus Areas**:
-- TensorFlow and PyTorch workflows
-- Feature engineering and data preparation
-- Model monitoring and observability
-- AWS SageMaker and cloud ML platforms
-
-**Tech Stack**: Python, TensorFlow, PyTorch, scikit-learn, SQL, Pandas, AWS SageMaker
-
-**Philosophy**: Every model is just the beginning - the real work is deploying and maintaining it in production
+---
+*Building solutions that matter.*
