@@ -1,13 +1,15 @@
-I am Ryan Burch
+## Ryan Burch
 
-**Generative AI Engineer**
+Generative AI Engineer focusing on LLMs and RAG systems.
 
-Specializing in fine-tuning large language models and building retrieval-augmented generation pipelines that work in production.
+### About
 
-**Key Learnings:**
-- Prompt engineering requires statistical rigor alongside creativity
-- RAG quality is determined by retrieval quality, not generation
-- Model hallucinations decrease by 45% with proper grounding
-- Inference optimization has greater ROI than training optimization
+Working on retrieval-augmented generation pipelines and large language model fine-tuning. Building systems that handle production constraints: cost, latency, hallucination reduction.
 
-Currently building autonomous AI agents with multi-step reasoning. Focused on model alignment and interpretability.
+### What I've Learned
+
+The shift to foundation models changed everything. Prompt engineering works better with statistical rigor. RAG quality depends on retrieval, not generation. Good grounding reduces hallucinations by 45%.
+
+### Current Work
+
+Autonomous AI agents with multi-step reasoning. Building systems that plan and adapt. Interested in model alignment and reducing hallucinations at scale.
