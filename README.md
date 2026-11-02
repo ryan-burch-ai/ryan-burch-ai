@@ -1,11 +1,21 @@
 # Ryan Burch
 
-Machine learning engineer focused on production ML systems.
+Machine learning engineer focused on building production-ready AI systems and data pipelines.
 
-## Work
+## Expertise
 
-Training, evaluating, and deploying machine learning models at scale. Specializing in model optimization, feature engineering, and data pipeline design.
+**Model Development**: Training, evaluating, and optimizing machine learning models
 
-**Tech**: Python, TensorFlow, PyTorch, scikit-learn, AWS SageMaker, SQL, Pandas
+**Data Engineering**: Building scalable data pipelines and feature engineering workflows
 
-**Focus**: Model production, data quality, performance monitoring
+**Production ML**: Model deployment, monitoring, and optimization at scale
+
+**Focus Areas**:
+- TensorFlow and PyTorch workflows
+- Feature engineering and data preparation
+- Model monitoring and observability
+- AWS SageMaker and cloud ML platforms
+
+**Tech Stack**: Python, TensorFlow, PyTorch, scikit-learn, SQL, Pandas, AWS SageMaker
+
+**Philosophy**: Every model is just the beginning - the real work is deploying and maintaining it in production
