@@ -1,13 +1,13 @@
-## Ryan Burch
+I am Ryan Burch
 
-*Generative AI Specialist*
+**Generative AI Engineer**
 
-The shift toward foundation models has fundamentally changed how we build AI systems. Over the past few years, I've focused on fine-tuning large language models and building retrieval-augmented generation pipelines that actually work in production.
+Specializing in fine-tuning large language models and building retrieval-augmented generation pipelines that work in production.
 
-**What I've learned:**
-- Prompt engineering is more art than science, but statistics help
-- RAG quality is determined by retrieval, not generation
+**Key Learnings:**
+- Prompt engineering requires statistical rigor alongside creativity
+- RAG quality is determined by retrieval quality, not generation
 - Model hallucinations decrease by 45% with proper grounding
-- Inference optimization beats training optimization for cost
+- Inference optimization has greater ROI than training optimization
 
-Currently building autonomous AI agents that reason over multiple tools. Interested in model alignment and interpretability challenges.
+Currently building autonomous AI agents with multi-step reasoning. Focused on model alignment and interpretability.
