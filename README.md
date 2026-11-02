@@ -1,11 +1,11 @@
 # Ryan Burch
 
-**By the numbers**:
-- 5+ years in machine learning
-- 50+ models trained and deployed
-- Focus on production ML systems
-- Expertise in TensorFlow, PyTorch, data pipelines
+Machine learning engineer focused on production ML systems.
 
-**What matters**: Turning models into products that create value
+## Work
 
-**Technologies**: Python, TensorFlow, PyTorch, scikit-learn, AWS SageMaker, SQL
+Training, evaluating, and deploying machine learning models at scale. Specializing in model optimization, feature engineering, and data pipeline design.
+
+**Tech**: Python, TensorFlow, PyTorch, scikit-learn, AWS SageMaker, SQL, Pandas
+
+**Focus**: Model production, data quality, performance monitoring
